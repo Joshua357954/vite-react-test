@@ -17,7 +17,7 @@ function App() {
         <p>
 
           <button type="button" onClick={() => setCount((count) => count + Math.floor(Math.random()*5))}>
-            New Num == {count}
+           New One's == {count}
 
           </button>
 
